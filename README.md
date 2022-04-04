@@ -11,7 +11,7 @@ This repo was previously the core Kubernetes tracking repo for
 2020, the purpose and maintenance strategy of the repo varies by
 branch.
 
-This fork has been created purely for testing purposes.
+This fork has been created purely for testing purposes. Please do not use it for any real workloads!
 
 ## Maintenance of `master` and `release-x.x` branches for 4.6 and above
 
